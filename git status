@@ -1,0 +1,29 @@
+[33mcommit cdd193a1aeb8856dffab9a6f732d0f65c4839f2c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: SierraAndrea <stellutiandrea@gmail.com>
+Date:   Wed Mar 23 13:37:07 2022 +0100
+
+    Add hello_world.txt
+
+[33mcommit 1677a55559bd88b20e2b417fca3521d4ce102360[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SierraAndrea <stellutiandrea@gmail.com>
+Date:   Fri Mar 18 10:56:11 2022 +0100
+
+    Edit hello_world.txt
+
+[33mcommit b0499eb24897c789d6c40a78909858fefca8bf0e[m
+Author: SierraAndrea <stellutiandrea@gmail.com>
+Date:   Fri Mar 18 10:47:41 2022 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 1fc77fb9b0386c5e4df516073a68201557737900[m
+Author: SierraAndrea <stellutiandrea@gmail.com>
+Date:   Wed Mar 9 19:04:47 2022 +0100
+
+    Add hello_world.txt
+
+[33mcommit f34ab6f31dc8eb3f807e1b4c90473292abbb79f0[m
+Author: SierraAndrea <100498714+SierraAndrea@users.noreply.github.com>
+Date:   Wed Mar 9 18:55:37 2022 +0100
+
+    Initial commit
